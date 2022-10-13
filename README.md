@@ -1,6 +1,6 @@
 # Integración con Git y GitHub en Visual Studio
 
-Este es el repositorio del curso de LinkedIn Learning `[Visual Studio: Integración Git esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Integración con Git y GitHub en Visual Studio]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
@@ -10,19 +10,16 @@ Git es un sistema de control de versiones distribuido, gratuito y de código abi
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
-
-## Ramas
-
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+Este repositorio tiene una sola rama principal con cuatro carpetas para cada uno de los repositorios creados durante el curso. Descarga la carpeta que corresponda según el repositorio utilizado en cada una de las lecciones y trabaja con dicha carpeta. Ten en cuenta que las URLs que aparecen en las lecciones no coincidirán con las de este repositorio (y tampoco con las URLs de tus repositorios).
 
 ## Instalación
 
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+1. Instala Visual Studio 2022 (https://visualstudio.microsoft.com/es/vs/)
+2. Comienza con las lecciones del curso :)
 
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+Este curso ha sido grabado utilizando Windows 10. Si utilizas otro sistema operativo es posible que algunas instrucciones empleadas, archivos de configuración o procedimientos en la interfaces no se apliquen de la misma manera, y sea necesario localizar la forma de trabajo equivalente para dicho sistema operativo.
+
+Así mismo, en este curso se utiliza como ejemplo código escrito en C y C++. Utiliza el lenguaje de programación que mejor conozcas y se adapte a tu día a día, teniendo en cuenta que digo lenguaje pueda ser utilizado en Visual Studio 2022. 
 
 ### Docente
 
