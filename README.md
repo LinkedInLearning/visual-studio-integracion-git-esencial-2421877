@@ -1,4 +1,4 @@
-# Visual Studio: Integración Git esencial
+# Integración con Git y GitHub en Visual Studio
 
 Este es el repositorio del curso de LinkedIn Learning `[Visual Studio: Integración Git esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
