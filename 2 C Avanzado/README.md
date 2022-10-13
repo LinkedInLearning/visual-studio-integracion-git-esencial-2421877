@@ -1,0 +1,2 @@
+# C-Avanzado
+Profundiza en el mundo de la programación en C con los ejercicios prácticos que encontrarás en este repositorio y que te ayudarán a afianzar conceptos avanzados de programación en lenguaje C. Conocerás el concepto de puntero, su relación con los registros y los arrays; te introducirás en la gestión de memoria, los ficheros y las funciones, así como en el proceso de crear librerías desde cero, todo ello siguiendo buenas prácticas de programación.
