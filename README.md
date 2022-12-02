@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Integración con Git y GitHub en Visual Studio]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url]
+![image](https://user-images.githubusercontent.com/71371373/205263309-07fbbfce-0312-4d9e-a6f6-2b57064ee697.png)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -28,7 +28,7 @@ Así mismo, en este curso se utiliza como ejemplo código escrito en C y C++. Ut
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/visual-studio-integracion-git-esencial/integracion-con-git-y-github-en-visual-studio
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
