@@ -1,8 +1,8 @@
 # Integración con Git y GitHub en Visual Studio
 
-Este es el repositorio del curso de LinkedIn Learning `[Integración con Git y GitHub en Visual Studio]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Integración con Git y GitHub en Visual Studio`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/205263309-07fbbfce-0312-4d9e-a6f6-2b57064ee697.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -29,6 +29,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/visual-studio-integracion-git-esencial/integracion-con-git-y-github-en-visual-studio
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4D0DAQFqzIWjmYPbGQ/learning-public-crop_675_1200/0/1669970302471?e=2147483647&v=beta&t=5jn8S2SiOBOfLzPA3Yr7vduwVvixeRI01ogfVNDRYhc
 
 [1]: # (End of ES-Instruction ###############################################################################################)
